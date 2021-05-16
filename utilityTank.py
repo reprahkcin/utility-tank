@@ -33,6 +33,7 @@ def reverse():
 
 while(True):
     # check the d-pad
+    
     # check the buttons
     
     print('checking...')
